@@ -1,0 +1,105 @@
+﻿.icon-bar{
+    background-color:#428bca;
+}
+
+#myCarousel{
+    width: 904px;
+    height: 100%;
+}
+
+.col-md-2{
+    position: relative;
+    min-height: 1px;
+    padding-top: 25px;
+    margin-left: 220px;
+}
+
+body{
+    background-color: #525252;
+    padding-bottom: 70px;
+}
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+h3{
+    text-align:center;
+}
+
+h6{
+    text-align:center;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+#bs-example-navbar-collapse-1 {
+  text-align: center;
+}
+
+/* Content */
+
+/* Main */
+#main > .container {
+	box-shadow: 0 7px 18px rgba(0, 0, 0, .5);
+}
+
+/* Carousel */
+#slider-home {
+	margin-bottom: 50px;
+}
+
+.carousel-caption {
+	background-color: rgba(41, 23, 1, 0.75);
+	height: 100%;
+	left: 0;
+	top: 0;
+    margin-left:-230px;
+	width: 340px;
+}
+
+    .carousel-caption p {
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+    .carousel-caption h2 {
+		font-size: 26px;
+		line-height: 30px;
+	}
+
+    .carousel-caption .h4 {
+		font-size: 20px;
+		margin-bottom: 30px;
+		margin-top: 8px;
+	}
+
+    .carousel-caption img {
+		display: block;
+		max-width: 100%;
+		height: auto;
+		margin: 0 auto;
+	}
+
+    .carousel-caption a {
+		border-radius: 0;
+		font-weight: bold;
+		color: #291701;
+		border: none;
+	}
+
+
+
+
+@media screen and (max-width: 768px) {
+
+}
+
